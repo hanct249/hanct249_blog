@@ -21,7 +21,7 @@
 title: Stats Blog
 email: hanct249@byu.edu
 description: "This is a statistics blog that explain stats concepts and talk about projects" 
-baseurl: "/stat386-blog-theme" # the name of the repository 
+baseurl: "/hanct249_blog" # the name of the repository 
 url: "https://hanct249.github.io" #  change this to "https://<your-github-username>.github.io"
 image: https://source.unsplash.com/random
 author: Trevor Hancock

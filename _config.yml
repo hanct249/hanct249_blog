@@ -23,7 +23,7 @@ email: hanct249@byu.edu
 description: "This is a statistics blog that explain stats concepts and talk about projects" 
 baseurl: "/hanct249_blog" # the name of the repository 
 url: "https://hanct249.github.io" #  change this to "https://<your-github-username>.github.io"
-#image: https://source.unsplash.com/random
+image: https://source.unsplash.com/random
 author: Trevor Hancock
 copyright: TCH # Your initials or what you want the copyright to be.  Leave empty for no copyright
 footer_description: 
